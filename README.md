@@ -36,3 +36,8 @@ Machine Learning Models Studied
   Deep Learning Models
   Long Short-Term Memory Networks (LSTM)
   K-Means Clustering
+
+
+Research Findings
+
+The study reveals that AI significantly enhances cyber defense capabilities through improved detection accuracy, predictive threat intelligence, and automated response mechanisms. However, challenges remain in areas such as explainability, real-world validation, legal governance, and the development of unified frameworks capable of addressing the evolving complexity of cyber warfare.
