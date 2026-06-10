@@ -51,3 +51,13 @@ Future research should focus on:
   Real-time threat prediction frameworks
   International governance models for AI-enabled cyber warfare
   Integration of technical, legal, and strategic cyber defense approaches
+Technologies and Concepts Covered
+  Artificial Intelligence (AI)
+  Machine Learning (ML)
+  Deep Learning (DL)
+  Cyber Threat Intelligence (CTI)
+  Intrusion Detection Systems (IDS)
+  Threat Hunting
+  Cyber Resilience
+  Predictive Analytics
+  Cyber Risk Assessment
