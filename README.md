@@ -61,3 +61,4 @@ Technologies and Concepts Covered
   Cyber Resilience
   Predictive Analytics
   Cyber Risk Assessment
+This project is a research-oriented academic study intended to analyze and understand the role of AI in cyber warfare and cybersecurity. It does not implement offensive cyber capabilities and is intended solely for educational and research purposes.
