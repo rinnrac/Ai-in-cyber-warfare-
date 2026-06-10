@@ -12,3 +12,8 @@ Key Areas Explored
   Automated incident response
   Cyber threat intelligence
   Security analytics
+Machine Learning Applications
+  Intrusion Detection Systems (IDS)
+  Malware Classification
+  Anomaly Detection
+  Threat Prediction Models
