@@ -17,3 +17,10 @@ Machine Learning Applications
   Malware Classification
   Anomaly Detection
   Threat Prediction Models
+Cyber Warfare Domains
+  AI-enabled cyber attacks
+  Autonomous cyber defense
+  Cyber espionage
+  Information and cognitive warfare
+  Critical infrastructure protection
+
