@@ -27,3 +27,12 @@ Governance and Policy
   Legal frameworks for AI-enabled cyber warfare
   Cyber arms control challenges
   Ethical considerations of autonomous cyber operations
+Machine Learning Models Studied
+  The research investigates commonly used machine learning techniques in cybersecurity, including:
+  Random Forest
+  Support Vector Machines (SVM)
+  Decision Trees
+  Artificial Neural Networks (ANN)
+  Deep Learning Models
+  Long Short-Term Memory Networks (LSTM)
+  K-Means Clustering
