@@ -23,4 +23,7 @@ Cyber Warfare Domains
   Cyber espionage
   Information and cognitive warfare
   Critical infrastructure protection
-
+Governance and Policy
+  Legal frameworks for AI-enabled cyber warfare
+  Cyber arms control challenges
+  Ethical considerations of autonomous cyber operations
