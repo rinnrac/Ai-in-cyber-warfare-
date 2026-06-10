@@ -41,3 +41,13 @@ Machine Learning Models Studied
 Research Findings
 
 The study reveals that AI significantly enhances cyber defense capabilities through improved detection accuracy, predictive threat intelligence, and automated response mechanisms. However, challenges remain in areas such as explainability, real-world validation, legal governance, and the development of unified frameworks capable of addressing the evolving complexity of cyber warfare.
+
+Future Scope
+
+Future research should focus on:
+
+  Adaptive and autonomous cyber defense systems
+  Explainable AI (XAI) for cybersecurity
+  Real-time threat prediction frameworks
+  International governance models for AI-enabled cyber warfare
+  Integration of technical, legal, and strategic cyber defense approaches
